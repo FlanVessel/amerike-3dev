@@ -1,3 +1,7 @@
+# _AMERIKE 3 DEV_
+
+En este repositorio encontraremos los códigos realizados en la materia _**Programación en Lenguajes Interpretados**_ del tercer semestre de la carrera de _**DEVs**_ de _**AMERIKE**_.
+
 HOla esto es un párrafo en _MarkDown_.
 
 Mi nombre es Jonathan, soy **Ingeniero de Software**.
