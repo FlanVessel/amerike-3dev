@@ -10,6 +10,10 @@ Soy Profesor en _**AMERIKE**_.
 
 Para más información sobre _Markdown_ lee este [artículo](https://jonmircha.com/markdown)
 
+## Prácticas
+
+- [Práctica 1](./practica-01.md)
+
 ![JAva?... This is JavaScript](https://jonmircha.com/img/blog/this-is-javascript.jpg)
 
 1. Primavera
