@@ -17,8 +17,6 @@ En este repositorio encontraremos los códigos realizados en la materia _**Progr
   - [Artículo](https://jonmircha.com/git).
   - [Video](https://www.youtube.com/watch?v=suzMNqDQiyU).
 
-Para más información sobre _Markdown_ lee este [artículo](https://jonmircha.com/markdown)
-
 ## Prácticas
 
 - [Práctica 1](./practica-01.md)
