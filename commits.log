@@ -1,0 +1,24 @@
+*   cfacfbd Corrigiendo conflictos de fusion
+|\  
+| * 16faed6 modificando index en ingles
+* | 1ae75cd Enlazando index.html con main.js
+* | 900e13c Fusionando con rama 'js'
+|\| 
+| * 6e0ab68 Creando archivo main.js desde ramam JS
+| * 582e2bb Modificando index.html desde rama JS
+* | db88a43 Enlazando documento html con hoja css
+* |   c35e92f Fusionando contenido de rama 'css'
+|\ \  
+| |/  
+|/|   
+| * 7121b77 Creando archivo styles.css en rama CSS
+* | 9d2952c Creando index.html en rama HTML
+|/  
+* 3d563c6 Quitando info innecesaria del README
+* f7ddcef Creando archivo de LICENSE para el repositorio
+* bcc14be Agregando recursos de estudio al README
+* 274729b Subiendo archivo desde el browser
+* de478ba Actualizando archivo.gitignore
+* f66a8ba Subiendo la práctica 1
+* 96587b7 Agregando título y descripción al README.md
+* 0378eb2 Primer cambio
