@@ -2,6 +2,8 @@
 
 En este repositorio encontraremos los códigos realizados en la materia _**Programación en Lenguajes Interpretados**_ del tercer semestre de la carrera de _**DEVs**_ de _**AMERIKE**_.
 
+En esta clase estamos aprendiendo a crear etiquetas.
+
 ## Apuntes y Cursos
 
 - _Visual Studio Code_
