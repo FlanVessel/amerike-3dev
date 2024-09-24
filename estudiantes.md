@@ -23,4 +23,3 @@ Soy un estudiante de desarrollo de software interactivo y videojuegos tratando d
 - [Perfil de _GitHub_](https://github.com/ChesKrt)
 
 ![Cesar Flores Basurto](/amerike-3dev/img/IMG_5765.jpg)
-
