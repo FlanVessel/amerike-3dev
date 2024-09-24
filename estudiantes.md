@@ -14,3 +14,13 @@ Hola soy tu amigo y docente digital...
 ---
 
 ## Estudiantes
+
+### Jorge Salas Leybon
+
+Hola soy un estudiante de la carrera de Ingenieria en Desarrollo de Software Interactivo y Videojuegos. Me gusta mucho programar y quiero seguir aprendiendo más y más.
+
+- [cdmx2767@amerike.edu.mx](cdmx2767@amerike.edu.mx)
+- [Tu perfil de _GitHub_](https://github.com/JorSL1120)
+
+![Jorge Salas](./img/FotoJorgeSalas.JPG)
+---
