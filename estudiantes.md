@@ -47,6 +47,9 @@ Soy un estudiante de desarrollo de software interactivo y videojuegos tratando d
 - [Correo electronico](cdmx2675@amerike.edu.mx)
 - [Perfil de _GitHub_](https://github.com/ChesKrt)
 
+<<<<<<< HEAD
+![Cesar Flores Basurto](/amerike-3dev/img/IMG_5765.jpg)
+=======
 ![Cesar Flores Basurto](./img/IMG_5765.jpg)
 
 ---
@@ -92,3 +95,4 @@ Estudiante de la ingeniería en desarrollo de software interactivo y videojuegos
 ![Edgar Edán Arriaga Quiroz](https://github.com/RanchQ/programacion/blob/main/Yo.jpeg?raw=true)
 
 ---
+>>>>>>> 30cb4015d7719a3ebc3636f0966695833cb3c488
