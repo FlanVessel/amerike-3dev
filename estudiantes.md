@@ -15,6 +15,18 @@ Hola soy tu amigo y docente digital...
 
 ## Estudiantes
 
+
+### Cesar Flores Basurto
+
+Soy un estudiante de desarrollo de software interactivo y videojuegos tratando de mejorar sus habilidades en programación
+
+- [Correo electronico](cdmx2675@amerike.edu.mx)
+- [Perfil de _GitHub_](https://github.com/ChesKrt)
+
+![Cesar Flores Basurto](./img/IMG_5765.jpg)
+
+---
+
 ### Jorge Barrera Dorantes
 
 Soy Jorge Barrera y soy jugador de lol me distraigo muy facil pero intento ser buena persona dia tras dia me caen bien todos
@@ -53,3 +65,5 @@ Estudiante de la ingeniería en desarrollo de software interactivo y videojuegos
 - [Tu perfil de _GitHub_](https://github.com/RanchQ)
 
 ![Edgar Edán Arriaga Quiroz](https://github.com/RanchQ/programacion/blob/main/Yo.jpeg?raw=true)
+
+---
