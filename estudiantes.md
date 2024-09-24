@@ -16,6 +16,19 @@ Hola soy tu amigo y docente digital...
 ## Estudiantes
 
 
+### Angel Bernardino Melquiades
+
+Estudiante de Desarrollo de Software Interactivo y VideoJuegos.
+
+> Un simple aficionado de la mitologia, asi como de historias de fantasia.
+
+- [cdmx2805@amerike.edu.mx](cdmx2805@amerike.edu.mx)
+- [Perfil de _GitHub_](https://github.com/Cazador457)
+
+![Angel Bernardino Melquiades](./img/Angel.jpg)
+
+---
+
 ### Cesar Flores Basurto
 
 Soy un estudiante de desarrollo de software interactivo y videojuegos tratando de mejorar sus habilidades en programación
@@ -39,6 +52,7 @@ Soy Jorge Barrera y soy jugador de lol me distraigo muy facil pero intento ser b
 ---
 
 ### Juan Manuel Ulloa Chiñas
+
  Soy estudiante de amerike, jugador de volley, arquero, violinista, arista
  - [cdmx2408@amerike.edu.mx](cdmx2408@amerike.edu.mx)
  - [SonocJM](https://github.com/SonocJM)
