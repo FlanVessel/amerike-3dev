@@ -15,7 +15,6 @@ Hola soy tu amigo y docente digital...
 
 ## Estudiantes
 
-
 ### Jorge Salas Leybon
 
 Hola soy un estudiante de la carrera de Ingenieria en Desarrollo de Software Interactivo y Videojuegos. Me gusta mucho programar y quiero seguir aprendiendo más y más.
@@ -47,9 +46,6 @@ Soy un estudiante de desarrollo de software interactivo y videojuegos tratando d
 - [Correo electronico](cdmx2675@amerike.edu.mx)
 - [Perfil de _GitHub_](https://github.com/ChesKrt)
 
-<<<<<<< HEAD
-![Cesar Flores Basurto](/amerike-3dev/img/IMG_5765.jpg)
-=======
 ![Cesar Flores Basurto](./img/IMG_5765.jpg)
 
 ---
@@ -67,10 +63,11 @@ Soy Jorge Barrera y soy jugador de lol me distraigo muy facil pero intento ser b
 
 ### Juan Manuel Ulloa Chiñas
 
- Soy estudiante de amerike, jugador de volley, arquero, violinista, arista
- - [cdmx2408@amerike.edu.mx](cdmx2408@amerike.edu.mx)
- - [SonocJM](https://github.com/SonocJM)
- ![JuanManuel](./img/JuanManuelImage.jpg)
+Soy estudiante de amerike, jugador de volley, arquero, violinista, arista
+
+- [cdmx2408@amerike.edu.mx](cdmx2408@amerike.edu.mx)
+- [SonocJM](https://github.com/SonocJM)
+  ![JuanManuel](./img/JuanManuelImage.jpg)
 
 ---
 
@@ -80,7 +77,7 @@ Soy Diego, estudio diseño de videjuegos en Amerike, toco la bateria y me gusta 
 
 - Mi correo: [cdmx2754@amerike.edu.mx](cdmx2754@amerike.edu.mx)
 - [Mi perfil de _GitHub_](https://github.com/Ophion-73)
- 
+
 ![Diego Marche Focil](./img/DiegoMarche.png)
 
 ---
@@ -95,4 +92,3 @@ Estudiante de la ingeniería en desarrollo de software interactivo y videojuegos
 ![Edgar Edán Arriaga Quiroz](https://github.com/RanchQ/programacion/blob/main/Yo.jpeg?raw=true)
 
 ---
->>>>>>> 30cb4015d7719a3ebc3636f0966695833cb3c488
